@@ -1,4 +1,24 @@
-body {
-    background-color: aqua;
-    color: red;
+.container {
+    width: 400px;
+    height: 300px;
+    border: 1px solid black;
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.box {
+    width: 400px;
+    height: 300px;
+    border: 1px solid blue;
+    position: relative;
+}
+
+.item-1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
 }
